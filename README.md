@@ -1,2 +1,2 @@
-# 531 pattern recognization
+# pattern recognization
  
